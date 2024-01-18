@@ -15,7 +15,7 @@
 </h1>
 
 ### :woman_technologist: My name is Aswin
-- :telescope: I am a programming Student
+- :telescope: software developer
 
 - :seedling: from TN,India
 
